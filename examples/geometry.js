@@ -47,7 +47,7 @@ init();
 
 async function init() {
 
-	const bgColor = 0x111111;
+	const bgColor = red;
 
 	outputContainer = document.getElementById( 'output' );
 
